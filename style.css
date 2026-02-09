@@ -6,3 +6,16 @@ body {
 p {
     text-align: left;
 }
+
+header {
+
+    font-size: 40px;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    color: blue;
+}
